@@ -1,0 +1,4 @@
+Employee_id,Training_id,Trainer_Name,attending_calls,reporting_time,Review_date,Technical_Aggregate_Python,Technical_Aggregate_Snowflake,Technical_Aggregate_Databricks,Problem_Solving,Communication_Score,Professionalism_Score,Presentation_skills,Team_Collaboration,Leadership_Score,To_Focus,Trainer_Comments,Trainee_Name,data_hash,version_hash
+EMP1000,TRN202,Trainer,11,9:00 AM,2025-11-27,91,84,0.0,7,7,10,2,9,5,Databricks,Excellent,Alice,6e59767d4012878683bcd0c11662f059,9de1f5768312336c7637378304734947
+EMP1001,TRN202,Trainer,7,10:00 AM,2025-04-13,69,92,100.0,3,5,2,2,1,8,Snowflake,Needs improvement,Bob,4d5c8e113ba912c3cfad77d7953d4d32,2b1990675460f7f8ef5f54c4f5e3721a
+EMP1002,TRN202,Trainer,14,9:00 AM,2025-01-14,91,69,71.0,4,3,8,5,4,9,Databricks,Needs improvement,Charlie,503b9fd6d5ddd3bdb17431f8790c6ef2,94a86f69a01f5d5e779da391fdbe662b

@@ -1,0 +1,4 @@
+Employee_id,Email_address,Training_id,Last_log_date,PTO,PTO_Reason,WFH,Task_Name,Task_Completed,Start_Date,Expected_date,End_Date,Org_Participation,Certifications,Additional_Skills,Trainee_Name,data_hash,version_hash
+EMP1000,alice@example.com,TRN200,2025-03-14,Yes,N/A,Yes,Project,Yes,2025-05-05,2025-05-20,2025-05-13,Medium,Azure,Data Analysis,Alice,3fb1f35a643825addd3c5d13823b1d62,b3579e422114911d5163e938fd310261
+EMP1001,bob@example.com,TRN201,2025-10-01,Yes,N/A,Yes,Module 1,N/A,2025-11-18,2025-12-03,2025-12-11,Medium,Snowflake,Data Analysis,Bob,aabec564af1000c8bf40458fc61d37dc,da595024f8f86a25424dc88051418277
+EMP1002,charlie@example.com,TRN202,2025-07-13,Yes,Medical,No,Project,Yes,2025-12-19,2026-01-03,2026-01-11,High,Azure,SQL,Charlie,f8f929e31db42f9191c2a344208b6354,bc3207573d514555d2a501b035894f5e
